@@ -1,5 +1,5 @@
 # allo
-$ curl -i -H 'Authorization: token Bearer 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' \
+$ curl -i -H 'Authorization: token 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' \
 $    -d '{ \
 $         "title": "New logo", \
 $         "body": "We should have one", \
